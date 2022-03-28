@@ -1,1 +1,1 @@
-this is practise repo
+echo "this is practise repo"
